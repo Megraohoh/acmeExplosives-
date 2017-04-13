@@ -1,1 +1,3 @@
-# acmeExplosives-
+# NSS Exercise: ACME Explosives
+
+##
